@@ -13,12 +13,6 @@
 
 
 
-<p align="left">
-<a href="https://twitter.com/mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/X-Corp-Logo.jpg" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/mitul-shahriyar/" target="blank"><img align="center" src="socials/linkedIn_2.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/mitulshahriyar/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
-<a href= "https://youtube.com/@mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/YouTube.png" alt="" height="30" /></a>
-</p>
 
  
 
